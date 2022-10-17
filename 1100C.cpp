@@ -1,3 +1,6 @@
+//https://codeforces.com/contest/1100/problem/C
+//bpm-22-2 elnur israilov
+
 #define _USE_MATH_DEFINES
  
 #include <iostream>
