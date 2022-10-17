@@ -1,4 +1,4 @@
-//https://codeforces.com/contest/217/problem/A
+//https://codeforces.com/contest/271/problem/A
 //bpm-22-2 elnur israilov
 
 #include <iostream>
