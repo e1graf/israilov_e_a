@@ -1,3 +1,5 @@
+//https://codeforces.com/contest/1717/problem/B
+//bpm-22-2 elnur israilov
 
 #include <iostream>
 #include <array>
