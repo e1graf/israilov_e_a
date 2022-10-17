@@ -1,3 +1,6 @@
+//https://codeforces.com/contest/1352/problem/A
+//bpm-22-2 elnur israilov
+
 #include <iostream>
 #include <vector>
 #include <math.h>
