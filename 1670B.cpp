@@ -1,4 +1,5 @@
 //https://codeforces.com/contest/1670/problem/B
+//bpm-22-2 elnur israilov
 
 #include <iostream>
 #include <algorithm>
