@@ -13,7 +13,7 @@ int main() {
     double a = -1;
     double b = 1;
     double step = 0.1;
-    double x = a;
+    double x = 0;
     double y = 0;
     double element = 0;
     double eps = 0.001;
