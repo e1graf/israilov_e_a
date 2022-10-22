@@ -1,4 +1,4 @@
-//hw-05-01
+//hw-05-02
 //bpm-22-2 elnur israilov
 
 #include <iostream>
