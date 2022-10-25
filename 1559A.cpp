@@ -1,4 +1,4 @@
-//https//codeforces.com/problemset/problem/1559/A
+//https://codeforces.com/problemset/problem/1559/A
 //bpm-22-2 elnur israilov
 
 //the idea here is that we can fill the array with binary-multiplies of all array elements,
