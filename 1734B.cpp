@@ -1,3 +1,6 @@
+//https://codeforces.com/problemset/problem/1734/B
+//bpm-22-2 elnur israilov
+
 #include <iostream>
 
 int main() { 
